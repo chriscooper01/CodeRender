@@ -1,0 +1,84 @@
+﻿code { 
+    
+    margin-left: 10px;
+    
+}
+
+pre {
+    white-space: pre-wrap;
+    background-color: rgba(209, 209, 216, 0.30);
+    opacity: 0.8;
+    margin-left: 30px;
+    padding-left: 10px;
+    width: 80%;
+}
+
+pre:hover {
+    opacity: 2.0;
+    
+}
+
+methodType
+{
+    /*display: block;*/
+    font-weight: bold;
+    color: blue;          
+    /*padding-left: 10px;*/    
+}
+
+
+
+method
+{
+  display: block;
+  padding-left: 10px;
+}
+
+propertyType
+{
+    color: blue;
+}
+
+ifStart
+{
+  color: blue;
+}
+
+heading
+{
+    /*display: block;*/
+    font-weight: bold;
+    color: black;          
+    /*padding-left: 10px;*/    
+}
+
+subheading
+{
+    /*display: block;*/
+    text-decoration: underline;
+    color: black;
+              
+    /*padding-left: 10px;*/    
+}
+
+
+subheadingcomment
+{
+    /*display: block;*/
+     font-style:italic;
+    color: black;
+              
+    /*padding-left: 10px;*/    
+}
+codeComment
+
+{
+    /*display: block;*/
+    font-style:italic;
+    color:  darkseagreen;
+                 
+    /*padding-left: 10px;*/    
+}
+ExceptionColour{
+    color:   darkgreen;
+}
